@@ -1,10 +1,45 @@
 # pokeemerald Expansion
 
+## TBA
+- Sideways Stairs https://github.com/ghoulslash/pokeemerald/tree/sideways_stairs
+git remote add ghoul https://github.com/ghoulslash/pokeemerald/tree/sideways_stairs
+git pull ghoul ghoul_expansion
+
+- Dexnav https://github.com/ghoulslash/pokeemerald/tree/dexnav
+
+- Better RNG
+git remote add tertu-m https://github.com/tertu-m/pokeemerald
+git pull tertu-m random
+make clean
+make
+
+- Item Drops https://www.pokecommunity.com/showthread.php?t=474095
+
+- Decapitalization https://www.pokecommunity.com/showthread.php?t=451448
+
+- Costume Menu https://www.pokecommunity.com/showthread.php?t=415038
+
+-  Sprite Insertion
+https://www.pokecommunity.com/showthread.php?t=416167
+
+- Background Editing
+https://www.pokecommunity.com/showthread.php?t=419571
+
+- Music Editing
+https://www.pokecommunity.com/showthread.php?t=444317
+
+- Music Database
+https://www.pokecommunity.com/showthread.php?t=451938
+
+- Scripting Tutorial
+https://www.pokecommunity.com/showthread.php?t=416800
+
 ## What is the pokeemerald Expansion?
 
 The Pokeemerald Expansion is a collection of feature branches that can be integrated into existing [pokeemerald](https://github.com/pret/pokeemerald) projects.
 
 ## What features are included?
+
 - Upgraded battle engine.
     - Fairy Type.
     - Physical/Special/Status Category Split.
