@@ -1,6 +1,6 @@
 # pokeemerald Expansion
 
-## TBA
+## To Be Added
 - Sideways Stairs https://github.com/ghoulslash/pokeemerald/tree/sideways_stairs
 git remote add ghoul https://github.com/ghoulslash/pokeemerald/tree/sideways_stairs
 git pull ghoul ghoul_expansion
@@ -34,6 +34,9 @@ https://www.pokecommunity.com/showthread.php?t=451938
 - Scripting Tutorial
 https://www.pokecommunity.com/showthread.php?t=416800
 
+- Bunch of Tutorials
+https://www.youtube.com/playlist?list=PLLNv9Lq6kDmTIYfN5NvgQRvfOHTOXl0uU
+
 ## What is the pokeemerald Expansion?
 
 The Pokeemerald Expansion is a collection of feature branches that can be integrated into existing [pokeemerald](https://github.com/pret/pokeemerald) projects.
@@ -66,10 +69,6 @@ The project was originally started by DizzyEgg alongside other contributors.
 The project has now gotten larger and DizzyEgg is now maintaining the project as part of the ROM Hacking Hideout community. Some members of this community are taking on larger roles to help maintain the project.
 
 ### Please consider crediting the entire [list of contributors](https://github.com/rh-hideout/pokeemerald-expansion/wiki/Credits) in your project, as they have all worked hard to develop this project :)
-
-## Can I contribute even if I'm not a member of ROM Hacking Hideout?
-
-Yes! Contributions are welcome via Pull Requests and they will be reviewed by maintainers. Don't feel discouraged if we take a bit to review your PR, we'll get to it.
 
 ## What is ROM Hacking Hideout?
 
