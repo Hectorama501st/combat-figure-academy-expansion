@@ -639,9 +639,10 @@
 #define STRINGID_ABILITYWEAKENEDFSURROUNDINGMONSSTAT  637
 #define STRINGID_ATTACKERGAINEDSTRENGTHFROMTHEFALLEN  638
 #define STRINGID_PKMNSABILITYPREVENTSABILITY          639
+#define STRINGID_PKMNDROPPEDITEM                      640
+#define STRINGID_BAGISFULL                            641
 
-#define BATTLESTRINGS_COUNT                           640
-
+#define BATTLESTRINGS_COUNT                           642
 // This is the string id that gBattleStringsTable starts with.
 // String ids before this (e.g. STRINGID_INTROMSG) are not in the table,
 // and are instead handled explicitly by BufferStringBattle.
@@ -917,5 +918,9 @@
 #define B_MSG_Z_RECOVER_HP    4
 #define B_MSG_Z_STAT_UP       5
 #define B_MSG_Z_HP_TRAP       6
+
+// gItemDroppedStringIds
+#define B_MSG_ITEM_DROPPED   0
+#define B_MSG_BAG_IS_FULL    1
 
 #endif // GUARD_CONSTANTS_BATTLE_STRING_IDS_H
