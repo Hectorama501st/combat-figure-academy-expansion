@@ -2241,6 +2241,7 @@
 	.macro jumpifemergencyexited battler:req, jumpInstr:req
 	various \battler, VARIOUS_JUMP_IF_EMERGENCY_EXITED
 	.4byte \jumpInstr
+	.endm
 	
 	.macro givedroppeditems
 	various BS_FAINTED, VARIOUS_GIVE_DROPPED_ITEMS

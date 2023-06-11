@@ -4,8 +4,7 @@
 - Sideways Stairs https://github.com/ghoulslash/pokeemerald/tree/sideways_stairs
 git remote add ghoul https://github.com/ghoulslash/pokeemerald/tree/sideways_stairs
 git pull ghoul ghoul_expansion
-
-- Dexnav https://github.com/ghoulslash/pokeemerald/tree/dexnav
+DIBE
 
 - Better RNG
 git remote add tertu-m https://github.com/tertu-m/pokeemerald
@@ -13,9 +12,6 @@ git pull tertu-m random
 make clean
 make
 
-- Item Drops https://www.pokecommunity.com/showthread.php?t=474095
-
-- Decapitalization https://www.pokecommunity.com/showthread.php?t=451448
 
 - Costume Menu https://www.pokecommunity.com/showthread.php?t=415038
 
