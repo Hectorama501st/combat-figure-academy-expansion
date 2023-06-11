@@ -550,12 +550,6 @@ const struct Item gItems[] =
         .price = 1200,
         .description = sEnergyRootDesc,
         .pocket = POCKET_ITEMS,
-        .type = ITEM_USE_PARTY_MENU,
-        .fieldUseFunc = ItemUseOutOfBattle_Medicine,
-        .battleUsage = ITEM_B_USE_MEDICINE,
-        .battleUseFunc = ItemUseInBattle_Medicine,
-        .flingPower = 30,
-    },
 
     [ITEM_HEAL_POWDER] =
     {

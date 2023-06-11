@@ -143,35 +143,27 @@ static const u8 sCherishBallDesc[] = _(
 // Medicine
 static const u8 sPotionDesc[] = _(
     "Restores the HP of\n"
-    "a Pokémon by\n"
+    "a figure by\n"
     "20 points.");
 
 static const u8 sSuperPotionDesc[] = _(
     "Restores the HP of\n"
-    "a Pokémon by\n"
-#if I_HEALTH_RECOVERY >= GEN_7
+    "a figure by\n"
     "60 points.");
-#else
-    "50 points.");
-#endif
 
 static const u8 sHyperPotionDesc[] = _(
     "Restores the HP of\n"
-    "a Pokémon by\n"
-#if I_HEALTH_RECOVERY >= GEN_7
+    "a figure by\n"
     "120 points.");
-#else
-    "200 points.");
-#endif
 
 static const u8 sMaxPotionDesc[] = _(
     "Fully restores the\n"
-    "HP of a Pokémon.");
+    "HP of a figure.");
 
 static const u8 sFullRestoreDesc[] = _(
     "Fully restores the\n"
     "HP and status of a\n"
-    "Pokémon.");
+    "figure.");
 
 static const u8 sReviveDesc[] = _(
     "Revives a fainted\n"
